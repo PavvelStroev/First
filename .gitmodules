@@ -1,0 +1,3 @@
+[submodule "subm"]
+	path = subm
+	url = git@github.com:PavvelStroev/subm.git
